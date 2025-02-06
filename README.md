@@ -10,7 +10,7 @@ This project aims to analyze customer spending patterns, identify key customer s
 
 The project utilizes two primary datasets:
 
-1. dim_customers.csv (Customer Demographics)
+### 1. dim_customers.csv (Customer Demographics)
 
 customer_id: Unique identifier for each customer.
 
@@ -26,7 +26,9 @@ occupation: Job type (Salaried IT Employees, Business Owners, Freelancers, etc.)
 
 avg_income: Monthly average income in INR.
 
-2. fact_spends.csv (Customer Spending)
+
+
+### 2. fact_spends.csv (Customer Spending)
 
 customer_id: Unique identifier (links to dim_customers).
 
