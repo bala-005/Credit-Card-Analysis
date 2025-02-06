@@ -1,12 +1,12 @@
-#Mitron Bank Credit Card Analysis
+# Mitron Bank Credit Card Analysis
 
-Project Overview
+## Project Overview
 
 Mitron Bank, a legacy financial institution headquartered in Hyderabad, is planning to launch a new line of credit cards to expand its financial market reach. AtliQ Data Services proposed implementing this project and was given a pilot dataset of 4,000 customers across five cities to analyze their spending behavior and provide actionable recommendations.
 
 This project aims to analyze customer spending patterns, identify key customer segments, and recommend suitable credit card features to maximize adoption and engagement.
 
-Dataset Information
+## Dataset Information
 
 The project utilizes two primary datasets:
 
@@ -88,14 +88,14 @@ Payment Type Insights (Preference for Credit Cards and UPI Growth).
 
 Credit Card Feature Recommendations based on spending behaviors.
 
-Credit Card Feature Recommendations
+## Credit Card Feature Recommendations
 
 🔹 Cashback on Groceries & Bills (Top spending categories).
 🔹 EMI & Rewards for Electronics & Travel (Significant spend in these sectors).
 🔹 Higher Credit Limits for Mumbai & Delhi NCR users (Cities with highest spending).
 🔹 UPI-Linked Credit Card (To tap into the growing UPI adoption).
 
-Business Impact & Recommendations
+## Business Impact & Recommendations
 
 Targeted marketing strategies identified, focusing on high-value customer segments.
 
